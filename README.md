@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://github.com/Emmykally/FEM-Age-Calculator.git)
+- Live Site URL: [Add live site URL here](https://emmykally-age-calculator.netlify.app/)
 
 ## My process
 
